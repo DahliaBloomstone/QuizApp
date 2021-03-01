@@ -87,7 +87,7 @@ const questions = [
   {
     question: 'What am I doing with my life?',
     answers: [
-      { text: 'I dont know, correct: true },
+      { text: 'I dont know', correct: true },
       { text: 'I do know', correct: true },
       { text: 'Something', correct: true },
       { text: 'Help me', correct: true }

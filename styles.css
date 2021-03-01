@@ -3,6 +3,12 @@
     font-family: Monaco;
   }
   
+h1 {
+    text-align: center;
+    display: block;
+    font-size: 2em;
+}
+
   :root {
     --hue-neutral: 100;
     --hue-wrong: 10;
