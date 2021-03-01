@@ -78,35 +78,35 @@ function clearStatusClass(element) {
 
 const questions = [
   {
-    question: 'What is 2 + 2?',
+    question: 'Who am I?',
     answers: [
-      { text: '4', correct: true },
-      { text: '22', correct: false }
+      { text: 'yes', correct: true },
+      { text: 'no', correct: false }
     ]
   },
   {
-    question: 'Who is the best YouTuber?',
+    question: 'What am I doing with my life?',
     answers: [
-      { text: 'Web Dev Simplified', correct: true },
-      { text: 'Traversy Media', correct: true },
-      { text: 'Dev Ed', correct: true },
-      { text: 'Fun Fun Function', correct: true }
+      { text: 'I dont know, correct: true },
+      { text: 'I do know', correct: true },
+      { text: 'Something', correct: true },
+      { text: 'Help me', correct: true }
     ]
   },
   {
-    question: 'Is web development fun?',
+    question: 'Is this an existential crisis?',
     answers: [
       { text: 'Kinda', correct: false },
-      { text: 'YES!!!', correct: true },
-      { text: 'Um no', correct: false },
-      { text: 'IDK', correct: false }
+      { text: 'Absolutely!', correct: true },
+      { text: 'Yes', correct: false },
+      { text: 'No', correct: false }
     ]
   },
   {
-    question: 'What is 4 * 2?',
+    question: 'What do I do?',
     answers: [
-      { text: '6', correct: false },
-      { text: '8', correct: true }
+      { text: 'Go Outside', correct: false },
+      { text: 'Eat Food', correct: true }
     ]
   }
 ]
